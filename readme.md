@@ -1,14 +1,15 @@
+Android modding on Manjaro Linux
+
 ## Tools
 
-odin3 (for Windows)
-
-odin4 (for Linux)
+odin4
 
 heimdall-grimler-git
 
 thor-flash-utility -- https://github.com/Samsung-Loki/Thor
 
 android-tools (adb + fastboot)
+
 
 ## Preparations
 
@@ -26,11 +27,13 @@ Create group "plugdev"
 
 Add user to group
 
+
 ## Heimdall
 
 ```heimdall detect```
 
 ```heimdall flash --RECOVERY recovery.img ``` 
+
 
 ## adb
 
@@ -40,7 +43,15 @@ Add user to group
 
 ```adb start-server``` ```adb kill-server```
 
+
 ## Fastboot
 
 ```fastboot flash recovery recovery.img```
 
+## Samsung Galaxy A7 (2018)
+
+Download Mode: Vol+ + Vol- + Power
+Recovery Mode: Vol+ + Power
+Switch off: Vol- + Power
+
+Lineage OS 18.1 and DotOS work, Elixier and ArrowOS freeze
