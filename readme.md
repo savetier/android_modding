@@ -10,7 +10,7 @@ thor-flash-utility -- https://github.com/Samsung-Loki/Thor
 
 android-tools (adb + fastboot)
 
-#Prevent the Timeout Problem
+## Preparations
 
 ```kate /etc/udev/rules.d/51-android.rules ```
 
