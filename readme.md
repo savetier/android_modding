@@ -34,6 +34,9 @@ Add user to group
 
 ```heimdall flash --RECOVERY recovery.img```
 
+Immediately press the buttons to enter recovery mode, else TWRP will be overwritten.
+
+
 ## adb
 
 ```adb sideload rom.img``` - Flash ROM
