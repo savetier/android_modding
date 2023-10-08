@@ -23,9 +23,13 @@ Add text:
 
 ```SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", MODE="685d", GROUP="plugdev"```
 
-Create group "plugdev"
+Create group "plugdev":
 
-Add user to group
+```sudo groupadd plugdev```
+
+Add user to group:
+
+```sudo usermod -a -G plugdev $USER```
 
 
 ## Flash TWRP/PBRP to Phone/Tablet
