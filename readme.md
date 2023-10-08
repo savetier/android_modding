@@ -28,12 +28,11 @@ Create group "plugdev"
 Add user to group
 
 
-## Heimdall
+## Flash TWRP/PBRP to Phone/Tablet
 
 ```heimdall detect```
 
-```heimdall flash --RECOVERY recovery.img ``` 
-
+```heimdall flash --RECOVERY recovery.img```
 
 ## adb
 
