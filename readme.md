@@ -57,7 +57,29 @@ Immediately press the buttons to enter recovery mode, else TWRP will be overwrit
 ## Samsung Galaxy A7 (2018)
 
 Download Mode: Vol+ + Vol- + Power
+
 Recovery Mode: Vol+ + Power
+
 Switch off: Vol- + Power
 
-Lineage OS 18.1 and DotOS work, Elixier and ArrowOS freeze
+Experiences: Lineage OS 18.1 and DotOS work, in eOS the Wifi doesn't work, Elixier and ArrowOS freeze
+
+## Samsung Galaxy Tab 9.6
+
+Download Mode: Vol- + Home + Power
+
+Recovery Mode: Vol+ + Home + Power
+
+Switch off: Vol- + Power
+
+Links:
+
+https://xdaforums.com/t/unofficial-rom-lineageos-14-1-for-galaxy-tab-e-sm-t561-sm-t560.3903780
+
+https://androidfilehost.com/?fid=7161016148664852950
+
+https://xdaforums.com/t/t560-kitkat-01-jan-2020-v10-lightrom.3716039/
+
+Experiences:
+
+Lineage 14.1 works but is very slow; LightROM is the better choice, as it is much faster
