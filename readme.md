@@ -54,7 +54,7 @@ Immediately press the buttons to enter recovery mode, else TWRP will be overwrit
 
 ```fastboot flash recovery recovery.img```
 
-## Samsung Galaxy A7 (2018)
+## Samsung Galaxy A7 2018 (SM-A750FN / A7y18lte)
 
 Download Mode: Vol+ + Vol- + Power
 
@@ -64,18 +64,19 @@ Switch off: Vol- + Power
 
 Links:
 
-https://lineage.razuuu.de/devices/a7y18lte.html
+Lineage 18.1: https://lineage.razuuu.de/devices/a7y18lte.html
 
-https://drive.google.com/drive/folders/1b-s_1GhU0FYjiWkPSkdyjO6glefOWsKa
+Tools and Recovery: https://drive.google.com/drive/folders/1b-s_1GhU0FYjiWkPSkdyjO6glefOWsKa
 
-https://community.e.foundation/t/unofficial-build-samsung-galaxy-a7-2018-a7y18lte-for-e-os-r/53207
+eOS: https://community.e.foundation/t/unofficial-build-samsung-galaxy-a7-2018-a7y18lte-for-e-os-r/53207
 
 
 Experiences:
 
 Lineage OS 18.1 and DotOS work, in eOS the Wifi doesn't work, Elixier and ArrowOS freeze
 
-## Samsung Galaxy Tab 9.6
+
+## Samsung Galaxy Tab E 9.6 (SM-T560 / gtel3g)
 
 Download Mode: Vol- + Home + Power
 
@@ -86,11 +87,9 @@ Switch off: Vol- + Power
 
 Links:
 
-https://xdaforums.com/t/unofficial-rom-lineageos-14-1-for-galaxy-tab-e-sm-t561-sm-t560.3903780
+Lineage 14.1: https://xdaforums.com/t/unofficial-rom-lineageos-14-1-for-galaxy-tab-e-sm-t561-sm-t560.3903780
 
-https://androidfilehost.com/?fid=7161016148664852950
-
-https://xdaforums.com/t/t560-kitkat-01-jan-2020-v10-lightrom.3716039/
+LightROM: https://xdaforums.com/t/t560-kitkat-01-jan-2020-v10-lightrom.3716039/
 
 
 Experiences:
