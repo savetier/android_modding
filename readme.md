@@ -95,3 +95,12 @@ LightROM: https://xdaforums.com/t/t560-kitkat-01-jan-2020-v10-lightrom.3716039/
 Experiences:
 
 Lineage 14.1 works but is very slow; LightROM is the better choice, as it is much faster
+
+
+## Samsung Galaxy S9 / S9+
+
+Download Mode: Vol- + Home + Power
+
+Recovery Mode: Bixby + Vol+ + Power
+
+Switch off: Vol- + Power
