@@ -97,10 +97,10 @@ Experiences:
 Lineage 14.1 works but is very slow; LightROM is the better choice, as it is much faster
 
 
-## Samsung Galaxy S9 / S9+
+## Samsung Galaxy A52s 5G
 
-Download Mode: Vol- + Home + Power
+Download Mode: Vol- + Power (with USB-cable inserted)
 
-Recovery Mode: Bixby + Vol+ + Power
+Recovery Mode: Vol+ + Power  (with USB-cable inserted)
 
-Switch off: Vol- + Power
+In Lineage 20.1 the Wifi doesn't work. Lineage 21.1 works flawlessly.
